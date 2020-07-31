@@ -1,2 +1,1 @@
-pylzham
-Pillow
+python -m pip install
